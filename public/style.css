@@ -1,0 +1,22 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(/img/shop.jpeg);
+  background-size: cover;
+  color:white;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  
+}
+img{
+  height: 200px;
+}
+div.well{
+  background-color: brown;
+}
+div .jumbotron.text-center{
+  background-color: maroon;
+}
+div .col-sm-6{
+  background-color: rgb(148, 0, 0);
+}
